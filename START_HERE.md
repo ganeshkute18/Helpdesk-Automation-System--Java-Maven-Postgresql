@@ -8,8 +8,7 @@ The **Helpdesk Automation System** has been completely built and is ready to run
 - ✅ All source code complete
 - ✅ All documentation complete  
 - ✅ All scripts ready
-- ⏳ Need: Maven & PostgreSQL installed
- - ⏳ Need: Maven, Java 21 & PostgreSQL installed
+ - ⏳ Need: Maven, Java 11 & PostgreSQL installed
 
 ---
 
@@ -21,7 +20,7 @@ The **Helpdesk Automation System** has been completely built and is ready to run
 You need to install:
 - **Maven** — Build tool (5 min) → https://maven.apache.org/download.cgi
 - **PostgreSQL** — Database (10 min) → https://www.postgresql.org/download/
- - **Java 21 (JDK)** — LTS Java runtime (5 min) → https://jdk.java.net/21
+ - **Java 11 (JDK)** — LTS Java runtime (5 min) → https://jdk.java.net/11
 
 ### Step 2: Run Automated Setup (5 minutes)
 Once Maven and PostgreSQL are installed:
