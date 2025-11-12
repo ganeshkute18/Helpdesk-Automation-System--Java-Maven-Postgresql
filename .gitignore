@@ -1,0 +1,30 @@
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDEs
+.idea/
+*.iml
+.vscode/
+
+# Java
+/target/
+**/target/
+*.class
+*.jar
+*.war
+
+# Maven
+/dependency-reduced-pom.xml
+buildNumber.properties
+
+# Logs
+*.log
+
+# Others
+node_modules/
+dist//target/
+/*.iml
+/.idea/
+/*.log
+/*.class
