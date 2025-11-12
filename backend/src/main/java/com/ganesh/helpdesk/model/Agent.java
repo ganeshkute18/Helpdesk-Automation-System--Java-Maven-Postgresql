@@ -1,6 +1,6 @@
 package com.ganesh.helpdesk.model;
 
-import jakarta.persistence.*;
+import javax.persistence.*;
 import java.util.Set;
 
 @Entity
